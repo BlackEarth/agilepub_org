@@ -17,7 +17,7 @@ A good overview of agile methodologies can be found on <a href="http://agilemet
 
 I am no expert in agile, but I have been learning about it in the context of software development, and also thinking about it and trying to apply it to publishing (mostly in the areas of editing and project development), for about 10 years. It was encouraging to have Michael talking about it, but it made me think we in publishing would benefit from a community-based effort to explore this topic.
 
-<strong>I am inviting all</strong>, especially those involved in publishing and interested in thinking about this topic together, <strong>to contribute to this site and this project.</strong> If you're interested in improving the way we go about publishing projects and running our publishing business, you are welcome.
+I am inviting all, especially those involved in publishing and interested in thinking about this topic together, to contribute to this site and this project. If you're interested in improving the way we go about publishing projects and running our publishing business, you are welcome.
 
 The best way to get started right now is to fork the github <a href="https://github.com/BlackEarth/agilepub_org" target="_blank">repository for this site</a>, write some posts or pages, and submit pull requests. (If you don't know how to do this, it's not that hard to learn — go to <a href="https://github.com" target="_blank">GitHub.com</a> and click "Read the Guide". We plan to have other ways to contribute in the future.)
 
