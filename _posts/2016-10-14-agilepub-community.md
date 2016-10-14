@@ -23,4 +23,4 @@ The best way to get started right now is to fork the github <a href="https://gi
 
 I'm looking forward to hearing from you.
 
-_[wpghs]_
+<em>[wpghs]</em>
