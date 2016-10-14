@@ -15,7 +15,7 @@ I heard an interesting talk by Michael Covington last night on the idea of apply
 
 A good overview of agile methodologies can be found on <a href="http://agilemethodology.org" target="_blank">http://agilemethodology.org</a>, which leads by saying "Agile is not a methodology!" but more of a movement. Wikipedia also has a <a href="https://en.wikipedia.org/wiki/Agile_software_development" target="_blank">good page</a> on the subject.
 
-I am no expert in agile, but I have been learning about it in the context of software development, and also thinking about it and trying to apply it to publishing (mostly in the areas of editing and project development), for about 10 years. It was encouraging e to have Michael talking about it, but it made me think we in publishing would benefit from a community-based effort to explore this topic.
+I am no expert in agile, but I have been learning about it in the context of software development, and also thinking about it and trying to apply it to publishing (mostly in the areas of editing and project development), for about 10 years. It was encouraging to have Michael talking about it, but it made me think we in publishing would benefit from a community-based effort to explore this topic.
 
 <strong>I am inviting all</strong>, especially those involved in publishing and interested in thinking about this topic together, <strong>to contribute to this site and this project.</strong> If you're interested in improving the way we go about publishing projects and running our publishing business, you are welcome.
 
