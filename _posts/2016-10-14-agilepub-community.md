@@ -1,6 +1,6 @@
 ---
 ID: 7
-post_title: AgilePub Community
+post_title: Agile Publishing Community
 author: sah
 post_date: 2016-10-14 15:04:08
 post_excerpt: ""
